@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora de jubilación</string>
+    <string name="subtitle">Calcule cuánto tiempo falta para su jubilación</string>
+    <string-array name="spinner">
+        <item>Mujer</item>
+        <item>Hombre</item>
+        <item>Joven</item>
+    </string-array>
+</resources>
