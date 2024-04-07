@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Calculadora de jubilación</string>
-    <string name="subtitle">kawki pachasa tatasti</string>
+    <string name="title_app">Jubilacional kalkullana</string>
+    <string name="subtitle_app">Qawqha pachasa jubilacional</string>
+    <string name="chose_gender">Chacha warmi ajlliñamawa</string>
+    <string name="escriba_su_edad">Kuna maranitasa qillqt\'amawa</string>
+    <string name="calcular">KALLKULLANA</string>
+    <string name="resultado">masinaka</string>
+    <string name="woman">Warmi</string>
+    <string name="man">Chacha</string>
 </resources>

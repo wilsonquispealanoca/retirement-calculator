@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Calculadora de jubilación</string>
-    <string name="subtitle">Calculate how long until retirement</string>
+    <string name="title_app">Retirement calculator</string>
+    <string name="subtitle_app">Calculate how long your retirement</string>
+    <string name="chose_gender">Choose your gender</string>
+    <string name="escriba_su_edad">Enter your age</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="resultado">Result</string>
+    <string name="woman">Woman</string>
+    <string name="man">Man</string>
 </resources>

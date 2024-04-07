@@ -1,9 +1,15 @@
 <resources>
-    <string name="app_name">Calculadora de jubilación</string>
-    <string name="subtitle">Calcule cuánto tiempo falta para su jubilación</string>
+    <string name="title_app">Calculadora de jubilacion</string>
+    <string name="subtitle_app">Calcule cuanto tiempo falta para su jubilacion</string>
+    <string name="chose_gender">Escoga su genero</string>
+    <string name="escriba_su_edad">Escriba su edad</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="resultado">Resultado</string>
+    <string name="woman">Mujer</string>
+    <string name="man">Hombre</string>
     <string-array name="spinner">
-        <item>Mujer</item>
-        <item>Hombre</item>
-        <item>Joven</item>
+        <item name="woman">Mujer</item>
+        <item name="man">Hombre</item>
+        <item name="young">Joven</item>
     </string-array>
 </resources>
